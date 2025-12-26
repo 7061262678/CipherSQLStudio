@@ -10,29 +10,31 @@ This project is designed to help beginners understand SQL concepts in a practica
 
 
 
----
-
-
-
 \## 🚀 Features
 
 
 
-\- ✅ Write and execute SQL queries  
-
-\- ✅ View results in real-time  
-
-\- ✅ Intelligent hint system (no direct answers)  
-
-\- ✅ Clean and responsive UI  
-
-\- ✅ Backend powered by Node.js \& PostgreSQL  
-
-\- ✅ Beginner-friendly design  
+\- ✅ Write and execute SQL queries
 
 
 
----
+\- ✅ View results in real-time
+
+
+
+\- ✅ Intelligent hint system (no direct answers)
+
+
+
+\- ✅ Clean and responsive UI
+
+
+
+\- ✅ Backend powered by Node.js \& PostgreSQL
+
+
+
+\- ✅ Beginner-friendly design
 
 
 
@@ -42,9 +44,15 @@ This project is designed to help beginners understand SQL concepts in a practica
 
 \### Frontend
 
+
+
 \- React.js
 
+
+
 \- SCSS (Vanilla)
+
+
 
 \- JavaScript
 
@@ -52,7 +60,11 @@ This project is designed to help beginners understand SQL concepts in a practica
 
 \### Backend
 
+
+
 \- Node.js
+
+
 
 \- Express.js
 
@@ -60,11 +72,9 @@ This project is designed to help beginners understand SQL concepts in a practica
 
 \### Database
 
+
+
 \- PostgreSQL
-
-
-
----
 
 
 
@@ -74,35 +84,53 @@ This project is designed to help beginners understand SQL concepts in a practica
 
 CipherSQLStudio/
 
+
+
 │
+
+
 
 ├── client/
 
+
+
 │ ├── src/
+
+
 
 │ │ ├── components/
 
+
+
 │ │ ├── pages/
+
+
 
 │ │ ├── styles/
 
+
+
 │ │ └── App.js
 
+
+
 │
+
+
 
 ├── server/
 
+
+
 │ ├── index.js
+
+
 
 │
 
+
+
 └── README.md
-
-
-
-
-
----
 
 
 
@@ -116,11 +144,19 @@ CipherSQLStudio/
 
 Frontend:
 
-```bash
+
 
 cd client
 
+
+
 npm install
+
+
+
+
+
+
 
 
 
@@ -130,17 +166,37 @@ Backend:
 
 
 
+
+
+
+
 cd server
+
+
 
 npm install
 
 
 
+
+
+
+
 2️⃣ Start Backend
+
+
 
 cd server
 
+
+
 npm start
+
+
+
+
+
+
 
 
 
@@ -150,15 +206,33 @@ Backend runs on:
 
 
 
+
+
+
+
 http://localhost:5000
+
+
+
+
 
 
 
 3️⃣ Start Frontend
 
+
+
 cd client
 
+
+
 npm start
+
+
+
+
+
+
 
 
 
@@ -168,13 +242,27 @@ Frontend runs on:
 
 
 
+
+
+
+
 http://localhost:3000
+
+
+
+
 
 
 
 🧪 Sample SQL Query
 
-SELECT \* FROM employees;
+
+
+SELECT \\\* FROM employees;
+
+
+
+
 
 
 
@@ -182,7 +270,15 @@ SELECT \* FROM employees;
 
 
 
-Signup \& Login implemented
+
+
+
+
+Signup \\\& Login implemented
+
+
+
+
 
 
 
@@ -190,7 +286,15 @@ Passwords handled securely
 
 
 
+
+
+
+
 Can be extended using JWT
+
+
+
+
 
 
 
@@ -198,7 +302,15 @@ Can be extended using JWT
 
 
 
+
+
+
+
 Hints guide users without revealing full solutions.
+
+
+
+
 
 
 
@@ -206,21 +318,43 @@ Example:
 
 
 
+
+
+
+
 "Check your WHERE condition carefully."
+
+
+
+
 
 
 
 📊 Database Schema
 
+
+
 CREATE TABLE employees (
 
-&nbsp; id SERIAL PRIMARY KEY,
 
-&nbsp; name VARCHAR(100),
 
-&nbsp; salary INT
+\&nbsp; id SERIAL PRIMARY KEY,
+
+
+
+\&nbsp; name VARCHAR(100),
+
+
+
+\&nbsp; salary INT
+
+
 
 );
+
+
+
+
 
 
 
@@ -228,7 +362,15 @@ CREATE TABLE employees (
 
 
 
+
+
+
+
 Shows:
+
+
+
+
 
 
 
@@ -236,7 +378,15 @@ Login
 
 
 
+
+
+
+
 SQL execution
+
+
+
+
 
 
 
@@ -244,7 +394,15 @@ Hint system
 
 
 
+
+
+
+
 Responsive UI
+
+
+
+
 
 
 
@@ -252,7 +410,15 @@ Responsive UI
 
 
 
+
+
+
+
 JWT Authentication
+
+
+
+
 
 
 
@@ -260,7 +426,15 @@ User dashboards
 
 
 
+
+
+
+
 Saved queries
+
+
+
+
 
 
 
@@ -268,21 +442,33 @@ Admin panel
 
 
 
+
+
+
+
 👩‍💻 Author
+
+
+
+
 
 
 
 Sakshi Kumari
 
+
+
 B.Tech CSE
+
+
 
 Lovely Professional University
 
 
 
+
+
+
+
 ⭐ Thank You!
-
-
-
-
 
