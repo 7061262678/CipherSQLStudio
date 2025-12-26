@@ -1,3 +1,17 @@
+\# 🚀 CipherSQLStudio
+
+
+
+!\[Node.js](https://img.shields.io/badge/Node.js-18.x-green)
+
+!\[React](https://img.shields.io/badge/React-18-blue)
+
+!\[PostgreSQL](https://img.shields.io/badge/PostgreSQL-15-blue)
+
+!\[Status](https://img.shields.io/badge/Status-Active-success)
+
+
+
 \# CipherSQLStudio 🚀
 
 
@@ -266,17 +280,43 @@ Saved queries
 
 Admin panel
 
-
-
-👩‍💻 Author
+---
 
 
 
-Sakshi Kumari
+\## 🌟 Why This Project?
 
-B.Tech CSE
 
-Lovely Professional University
+
+CipherSQLStudio helps students practice SQL in a real-world environment with:
+
+\- Live query execution  
+
+\- Intelligent hints  
+
+\- Clean UI  
+
+\- Real database integration  
+
+
+
+Built to improve practical SQL skills.
+
+
+
+---
+
+
+
+\## 📌 Author
+
+\*\*Sakshi Kumari\*\*  
+
+B.Tech CSE | Data Science Enthusiast  
+
+
+
+
 
 
 
