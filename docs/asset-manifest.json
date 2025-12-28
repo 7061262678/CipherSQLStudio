@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CipherSQLStudio/static/css/main.3cdf10a0.css",
+    "main.js": "/CipherSQLStudio/static/js/main.fa81b962.js",
+    "index.html": "/CipherSQLStudio/index.html",
+    "main.3cdf10a0.css.map": "/CipherSQLStudio/static/css/main.3cdf10a0.css.map",
+    "main.fa81b962.js.map": "/CipherSQLStudio/static/js/main.fa81b962.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3cdf10a0.css",
+    "static/js/main.fa81b962.js"
+  ]
+}
